@@ -157,3 +157,14 @@ Projekt został stworzony jako:
 ## 🧠 Autor
 Projekt edukacyjny – system kartowy typu fantasy PvP
 
+---
+
+## ⚖️ Inspiracje i prawa autorskie
+
+Projekt jest **niekomercyjny** i stworzony wyłącznie w celach edukacyjnych.
+
+Mechaniki gry są inspirowane grą **Spellstone** stworzoną przez studio **Kongregate**.
+Wszelkie prawa do oryginalnej gry należą do ich właścicieli.
+
+Fantasy Card Arena nie jest powiązane z Kongregate ani oficjalnym produktem Spellstone.
+Żadne oryginalne zasoby (grafiki, teksty, dane) ze Spellstone nie zostały użyte w tym projekcie.

@@ -1,0 +1,10 @@
+Fantasy Card Arena - Educational Project
+Copyright (c) 2026
+
+This project is non-commercial and created for educational purposes only.
+
+Inspired by Spellstone by Kongregate. All rights to the original game
+belong to their respective owners. This project is not affiliated with
+or endorsed by Kongregate.
+
+No original assets from Spellstone were used in this project.
